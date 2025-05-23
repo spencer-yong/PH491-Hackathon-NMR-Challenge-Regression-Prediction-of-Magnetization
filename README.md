@@ -1,0 +1,1 @@
+# PH491-Hackathon-NMR-Challenge-Regression-Prediction-of-Magnetization
