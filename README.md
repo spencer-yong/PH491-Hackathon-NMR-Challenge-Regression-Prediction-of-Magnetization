@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/spencer-yong/PH491-Hackathon-NMR-Challenge-Regression-Prediction-of-Magnetization/blob/main/Hackathon_NMR_Challenge_Group_01_Kodatt_Rollins_Yong.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # PH491-Hackathon-NMR-Challenge-Regression-Prediction-of-Magnetization
 The strength and shape of the interactions of nuclear spins are predicted by the output of 3 real numbers from two-channel (real and imaginary component) time-series data of magnetization.
 
